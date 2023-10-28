@@ -8,10 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-<<<<<<< HEAD
     "react-icons": "^4.11.0",
-=======
->>>>>>> 67653b82c1f322c5f57bd3b84dc75d3ef05738ec
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
