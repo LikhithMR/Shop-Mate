@@ -1,13 +1,17 @@
+<<<<<<< HEAD
 import { FaUser } from "react-icons/fa6";
 import { FaLocationDot } from "react-icons/fa6";
 
 
+=======
+>>>>>>> 67653b82c1f322c5f57bd3b84dc75d3ef05738ec
 function Form() {
   return (
     <>
       <div className="flex justify-center items-center w-screen h-screen">
         <div className="w-3/5 h-4/5 flex justify-center items-center bg-blue-950 rounded-md">
           <div className="flex flex-col w-4/5 h-4/5 bg-white items-center justify-center">
+<<<<<<< HEAD
             <h1 className="text-6xl mb-20 text-emerald-500">
               Welcome to Shopmate
             </h1>
@@ -28,6 +32,20 @@ function Form() {
                 className="outline-none ml-3  w-full"
               />
             </div>
+=======
+            <h1 className="text-6xl mb-20 text-emerald-500">Welcome to Shopmate</h1>
+            <input
+              type="text"
+              placeholder="Store Name"
+              className="outline-none border-b-2 border-blue-400 pb-2 w-3/5"
+            />
+            <br />
+            <input
+              type="text"
+              placeholder="Location"
+              className="outline-none border-b-2 border-blue-400 pb-2 w-3/5"
+            />
+>>>>>>> 67653b82c1f322c5f57bd3b84dc75d3ef05738ec
             <br />
             <div className="flex justify-around w-3/5">
               <button className=" bg-emerald-500 text-white rounded w-1/3 p-1">
