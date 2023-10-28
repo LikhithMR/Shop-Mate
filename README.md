@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ShopMate
 First react website
 =======
@@ -79,3 +80,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 >>>>>>> 67653b8 (basic form)
 =======
 >>>>>>> 67653b82c1f322c5f57bd3b84dc75d3ef05738ec
+=======
+# ShopMate
+First react website
+>>>>>>> 25388a4b3669eb66ac9c884524e4f7a4fae5d93e
