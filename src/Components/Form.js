@@ -12,7 +12,7 @@ function Form() {
               Welcome to Shopmate
             </h1>
             <div className="flex justify-start items-center w-3/5 border-b-2 border-blue-400 pb-2 ">
-              {/* <FaUser /> */}
+              <FaUser />
               <input
                 type="text"
                 placeholder="Store Name"
